@@ -15,6 +15,8 @@ Code files for the workshop are available here:
 1.	workshop.reactjs.1 > Part 2 > https://github.com/spietrek/workshop.reactjs.1
 2.	workshop.reactjs.2 > Part 3 > https://github.com/spietrek/workshop.reactjs.2
 
+A recording of the Part 3 presentation can be found here: https://youtu.be/XQreozTdsyg
+
 I would highly suggest checking out the rest of Steve's github for some more to learn from on lots of front-end technologies.
 You can also follow him on Twitter (https://twitter.com/spietrek). He shares a lot of awesome resources!
 
